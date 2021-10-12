@@ -13,3 +13,4 @@ dt <-  function(x, a =500, b = 200) {
 				     )
 	)
 }
+Sys.setenv(`_R_USE_PIPEBIND_` = TRUE) 
